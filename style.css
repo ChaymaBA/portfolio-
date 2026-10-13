@@ -177,6 +177,8 @@ footer p.small{color:var(--mute);font-size:14px;margin-top:26px}
 .certif-gallery:has(.k3:hover) .c3{opacity:1}
 .certif-gallery:has(.k4:hover) .c4{opacity:1}
 .certif-gallery:has(.k5:hover) .c5{opacity:1}
+.certif-gallery:has(.k6:hover) .c6{opacity:1}
+
 
 /* Hackathon : photo + vidéo au survol */
 .hack-grid{display:grid;grid-template-columns:1fr 250px;gap:24px;align-items:center;background:var(--card);border:1px solid var(--line);border-radius:18px;padding:22px;margin-top:6px;box-shadow:none}
