@@ -113,8 +113,8 @@ window.I18N.fr = {
 
   /* Leadership */
   "hack.label": "Leadership",
-  "hack.title": "🏆 Head of Event & membre du jury",
-  "hack.org": "Hackathon d'Innovation V3.0, 24 h non-stop · club TechnoMaker, ISSAT Kairouan",
+  "hack.title": "🏆 Responsable événementiel et membre du jury",
+  "hack.org": "Hackathon d'Innovation V3.0, 24 h sans escale · club TechnoMaker, ISSAT Kairouan",
   "hack.text": "Organisation de l'événement de bout en bout et évaluation de projets aux côtés de six enseignants-jurés. Membre du club de robotique TechnoMaker.",
 
   /* Langues parlées */
